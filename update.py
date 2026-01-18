@@ -42,6 +42,8 @@ for release in releases_data:
         platform, arch = j[-1].split('_')
         if platform == 'windows':
             platform = 'win7'
+        if arch == 'amd64':
+            arch = 'x64'
 
         files.append({
             "filename": filename + extension,
