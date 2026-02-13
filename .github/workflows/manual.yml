@@ -27,6 +27,8 @@ jobs:
         run: |
           pip install requests
           python3 update.py
+          git config --global user.email "aa@example.com"
+          git config --global user.name "aa"
           git add --all
           git commit -m "Update go-versions on $(date '+%Y-%m-%d %H:%M')"
-          git push -f origin rule-set
+          git push -f origin main
