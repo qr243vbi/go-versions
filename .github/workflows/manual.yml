@@ -25,9 +25,8 @@ jobs:
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
       - name: Update rule-set branch
         run: |
-          pip install proto-plus
-          cd gen
+          pip install requests
           python3 update.py
           git add --all
-          git commit -m "Update rule-set on $(date '+%Y-%m-%d %H:%M')"
+          git commit -m "Update go-versions on $(date '+%Y-%m-%d %H:%M')"
           git push -f origin rule-set
