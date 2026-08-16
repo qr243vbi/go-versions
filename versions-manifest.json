@@ -1,5 +1,103 @@
 [
   {
+    "version": "1.26.6",
+    "stable": true,
+    "release_url": "https://github.com/thongtech/go-legacy-win7/releases/tag/v1.26.6-1",
+    "files": [
+      {
+        "filename": "go-legacy-win7-1.26.6-1.linux_386.tar.gz",
+        "arch": "386",
+        "platform": "linux",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.26.6-1/go-legacy-win7-1.26.6-1.linux_386.tar.gz"
+      },
+      {
+        "filename": "go-legacy-win7-1.26.6-1.linux_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.26.6-1/go-legacy-win7-1.26.6-1.linux_amd64.tar.gz"
+      },
+      {
+        "filename": "go-legacy-win7-1.26.6-1.linux_arm.tar.gz",
+        "arch": "arm",
+        "platform": "linux",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.26.6-1/go-legacy-win7-1.26.6-1.linux_arm.tar.gz"
+      },
+      {
+        "filename": "go-legacy-win7-1.26.6-1.linux_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "linux",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.26.6-1/go-legacy-win7-1.26.6-1.linux_arm64.tar.gz"
+      },
+      {
+        "filename": "go-legacy-win7-1.26.6-1.windows_386.zip",
+        "arch": "386",
+        "platform": "win7",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.26.6-1/go-legacy-win7-1.26.6-1.windows_386.zip"
+      },
+      {
+        "filename": "go-legacy-win7-1.26.6-1.windows_amd64.zip",
+        "arch": "x64",
+        "platform": "win7",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.26.6-1/go-legacy-win7-1.26.6-1.windows_amd64.zip"
+      },
+      {
+        "filename": "go-legacy-win7-1.26.6-1.windows_arm64.zip",
+        "arch": "arm64",
+        "platform": "win7",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.26.6-1/go-legacy-win7-1.26.6-1.windows_arm64.zip"
+      }
+    ]
+  },
+  {
+    "version": "1.25.13",
+    "stable": true,
+    "release_url": "https://github.com/thongtech/go-legacy-win7/releases/tag/v1.25.13-1",
+    "files": [
+      {
+        "filename": "go-legacy-win7-1.25.13-1.linux_386.tar.gz",
+        "arch": "386",
+        "platform": "linux",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.25.13-1/go-legacy-win7-1.25.13-1.linux_386.tar.gz"
+      },
+      {
+        "filename": "go-legacy-win7-1.25.13-1.linux_amd64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.25.13-1/go-legacy-win7-1.25.13-1.linux_amd64.tar.gz"
+      },
+      {
+        "filename": "go-legacy-win7-1.25.13-1.linux_arm.tar.gz",
+        "arch": "arm",
+        "platform": "linux",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.25.13-1/go-legacy-win7-1.25.13-1.linux_arm.tar.gz"
+      },
+      {
+        "filename": "go-legacy-win7-1.25.13-1.linux_arm64.tar.gz",
+        "arch": "arm64",
+        "platform": "linux",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.25.13-1/go-legacy-win7-1.25.13-1.linux_arm64.tar.gz"
+      },
+      {
+        "filename": "go-legacy-win7-1.25.13-1.windows_386.zip",
+        "arch": "386",
+        "platform": "win7",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.25.13-1/go-legacy-win7-1.25.13-1.windows_386.zip"
+      },
+      {
+        "filename": "go-legacy-win7-1.25.13-1.windows_amd64.zip",
+        "arch": "x64",
+        "platform": "win7",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.25.13-1/go-legacy-win7-1.25.13-1.windows_amd64.zip"
+      },
+      {
+        "filename": "go-legacy-win7-1.25.13-1.windows_arm64.zip",
+        "arch": "arm64",
+        "platform": "win7",
+        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.25.13-1/go-legacy-win7-1.25.13-1.windows_arm64.zip"
+      }
+    ]
+  },
+  {
     "version": "1.26.5",
     "stable": true,
     "release_url": "https://github.com/thongtech/go-legacy-win7/releases/tag/v1.26.5-1",
@@ -1221,104 +1319,6 @@
         "arch": "arm64",
         "platform": "win7",
         "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.6-1/go-legacy-win7-1.23.6-1.windows_arm64.zip"
-      }
-    ]
-  },
-  {
-    "version": "1.23.5",
-    "stable": true,
-    "release_url": "https://github.com/thongtech/go-legacy-win7/releases/tag/v1.23.5-1",
-    "files": [
-      {
-        "filename": "go-legacy-win7-1.23.5-1.linux_386.tar.gz",
-        "arch": "386",
-        "platform": "linux",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.5-1/go-legacy-win7-1.23.5-1.linux_386.tar.gz"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.5-1.linux_amd64.tar.gz",
-        "arch": "x64",
-        "platform": "linux",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.5-1/go-legacy-win7-1.23.5-1.linux_amd64.tar.gz"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.5-1.linux_arm.tar.gz",
-        "arch": "arm",
-        "platform": "linux",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.5-1/go-legacy-win7-1.23.5-1.linux_arm.tar.gz"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.5-1.linux_arm64.tar.gz",
-        "arch": "arm64",
-        "platform": "linux",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.5-1/go-legacy-win7-1.23.5-1.linux_arm64.tar.gz"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.5-1.windows_386.zip",
-        "arch": "386",
-        "platform": "win7",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.5-1/go-legacy-win7-1.23.5-1.windows_386.zip"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.5-1.windows_amd64.zip",
-        "arch": "x64",
-        "platform": "win7",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.5-1/go-legacy-win7-1.23.5-1.windows_amd64.zip"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.5-1.windows_arm64.zip",
-        "arch": "arm64",
-        "platform": "win7",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.5-1/go-legacy-win7-1.23.5-1.windows_arm64.zip"
-      }
-    ]
-  },
-  {
-    "version": "1.23.4",
-    "stable": true,
-    "release_url": "https://github.com/thongtech/go-legacy-win7/releases/tag/v1.23.4-2",
-    "files": [
-      {
-        "filename": "go-legacy-win7-1.23.4-2.linux_386.tar.gz",
-        "arch": "386",
-        "platform": "linux",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.4-2/go-legacy-win7-1.23.4-2.linux_386.tar.gz"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.4-2.linux_amd64.tar.gz",
-        "arch": "x64",
-        "platform": "linux",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.4-2/go-legacy-win7-1.23.4-2.linux_amd64.tar.gz"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.4-2.linux_arm.tar.gz",
-        "arch": "arm",
-        "platform": "linux",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.4-2/go-legacy-win7-1.23.4-2.linux_arm.tar.gz"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.4-2.linux_arm64.tar.gz",
-        "arch": "arm64",
-        "platform": "linux",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.4-2/go-legacy-win7-1.23.4-2.linux_arm64.tar.gz"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.4-2.windows_386.zip",
-        "arch": "386",
-        "platform": "win7",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.4-2/go-legacy-win7-1.23.4-2.windows_386.zip"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.4-2.windows_amd64.zip",
-        "arch": "x64",
-        "platform": "win7",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.4-2/go-legacy-win7-1.23.4-2.windows_amd64.zip"
-      },
-      {
-        "filename": "go-legacy-win7-1.23.4-2.windows_arm64.zip",
-        "arch": "arm64",
-        "platform": "win7",
-        "download_url": "https://github.com/thongtech/go-legacy-win7/releases/download/v1.23.4-2/go-legacy-win7-1.23.4-2.windows_arm64.zip"
       }
     ]
   }
